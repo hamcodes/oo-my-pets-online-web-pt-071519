@@ -56,7 +56,7 @@ class Owner
   
 def sell_pets(pets)
   @cats + @dogs.each {|pets| @cats + @dogs = "nervous"
-end
+
 
     
   
