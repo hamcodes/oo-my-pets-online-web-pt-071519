@@ -59,6 +59,6 @@ class Owner
       pets.map {|pet| pet.mood = "nervous"}
     end
 
-    
+  end
   
 end
