@@ -54,9 +54,9 @@ class Owner
     }
   end
   
-def sell_pets(pets)
-  @cats + @dogs.each {|pets| @cats + @dogs = "nervous"
-
+  def sell_pets(pets)
+    @cats + @dogs.each {|pets| @cats + @dogs = "nervous"
+  end
 
     
   
