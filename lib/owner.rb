@@ -65,7 +65,7 @@ class Owner
 end
 #        expect(@owner.list_pets).to eq("I have #{@owner.dogs.count} dog(s), and #{@owner.cats.count} cat(s).")
   def list_pets
-    I have
+    "I have #{@owner.dogs.count} dog(s), and #{@owner.cats.count} cat(s)."
     
   
 end
